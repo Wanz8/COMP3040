@@ -42,7 +42,7 @@ The purpose of this README is to guide you through the process of hosting and fo
 
 7. In the newly created repository navigate to **Settings**
 ![Step 7 gif](image/Find%20Settings.gif)
-8. In the sidebar click **Pages**[Step 8 gif](image/Find%20Page.gif)
+8. In the sidebar click **Pages**![Step 8 gif](image/Find%20Page.gif)
 9. Set the deployment source to *Deploy from a branch* under the **Source** section and set the desired publishing branch under the **Branch** section
     - To keep it simple it is recommended that the main branch and root directory is the publishing branch
 ![Step 9 gif](image/Main%20Branch.gif)
