@@ -65,12 +65,10 @@ The purpose of this README is to guide you through the process of hosting and fo
 ---
 ## Authors and Acknowledgements 
 #### **Author**
-* [Charina Duenas](https://github.com/pandorasjuicebox)  
+* [ZHIHAO WANG](https://github.com/Wangz8)  
 #### **Group Members/Peer Editors**
-* [Emily Nguyen](https://github.com/emily0906) 
-* [Rajinder Singh](https://github.com/rajindersingh751) 
-* [Mohammed Anjum](https://github.com/vijdan-anjum)
+
 #### **GitHub Page Theme**
-* [Steve Smith](https://github.com/orderedlist) 
+*  
 ---
 ## FAQs
