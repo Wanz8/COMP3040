@@ -36,16 +36,16 @@ The purpose of this README is to guide you through the process of hosting and fo
 4. Choose visibility for your repository. You might set "**Public**" Because you want your employer to be able to see your resume
 5. Initialise the repository with a README file.
 
-    ![Step 5 gif](image/Set Public.gif)
+    ![Step 5 gif](image/Set%20Public.gif)
 
 6. Click on "**Create Repository**" to create.
 
 7. In the newly created repository navigate to **Settings**
-![Step 7 gif](image/Find Settings.gif)
-8. In the sidebar click **Pages**[Step 8 gif](image/Find Page.gif)
+![Step 7 gif](image/Find%20Settings.gif)
+8. In the sidebar click **Pages**[Step 8 gif](image/Find%20Page.gif)
 9. Set the deployment source to *Deploy from a branch* under the **Source** section and set the desired publishing branch under the **Branch** section
     - To keep it simple it is recommended that the main branch and root directory is the publishing branch
-![Step 9 gif](image/Main Branch.gif)
+![Step 9 gif](image/Main%20Branch.gif)
 10. Click Save
 ---
 
