@@ -22,30 +22,30 @@ The purpose of this README is to guide you through the process of hosting and fo
 
 #### Step 1: Creating a New repository
 
-1. Log into your [GitHub](https://GitHub.com) account.
+1. Log into your [GitHub](https://GitHub.com) account.![HomePage](HomePage.png)
 
 2. At the top right corner of the website, click on the '**+**' symbol
 3. Select "**New Repository**".
 
-    ![A GIF showing the step 2](create.gif)
+    ![Step 2 gif](create.gif)
 
 3. Give your repository a name. 
 
-    ![A GIF showing a repo name being typed](Name.gif)
+    ![Step 3 gif](Name.gif)
 
 4. Choose visibility for your repository. You might set "**Public**" Because you want your employer to be able to see your resume
 5. Initialise the repository with a README file.
 
-    ![A GIF selecting the checkbox to initialise repo with a README](Set Public.gif)
+    ![Step 5 gif](Set Public.gif)
 
 6. Click on "**Create Repository**" to create.
 
 7. In the newly created repository navigate to **Settings**
-![image](Find Settings.gif)
-8. In the sidebar click **Pages**[image](Find Page.gif)
+![Step 7 gif](Find Settings.gif)
+8. In the sidebar click **Pages**[Step 8 gif](Find Page.gif)
 9. Set the deployment source to *Deploy from a branch* under the **Source** section and set the desired publishing branch under the **Branch** section
     - To keep it simple it is recommended that the main branch and root directory is the publishing branch
-![image](Main Branch.gif)
+![Step 9 gif](Main Branch.gif)
 10. Click Save
 ---
 
