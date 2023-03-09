@@ -30,4 +30,4 @@ The design makes extensive use of human-computer interaction
 
 principles. Java, C/C++, Python, Ruby, Tools such as HTML, CSS and Javascript were used. MySQL,  Processing
 
-Git, JetBrains IDEs, XCode, JUnit,Android Studio
+Git, JetBrains IDEs, XCode, JUnit,Android Studio1
