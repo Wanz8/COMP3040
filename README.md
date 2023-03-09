@@ -49,7 +49,12 @@ The purpose of this README is to guide you through the process of hosting and fo
 10. Click Save
 ---
 
-### Step 2: Setting up Jeykll for your repository
+### Step 2: Use Jekylle to add a theme for your Github Page
+> By the end of this section, you have:
+> * Personalize your Jekyll site by adding and customizing a theme.
+
+
+
 ---
 
 
