@@ -57,15 +57,15 @@ In this guide, we'll go through the steps for choosing a Jekyll theme for your G
 
 ## Step 1: Determine Your Needs
 
-Before selecting a theme, consider the purpose and content of your GitHub page. Do you need a theme that is focused on blogging or a theme that showcases your portfolio? What features do you need in a theme, such as search functionality or a responsive design?
+Before selecting a theme, consider the purpose and content of your GitHub page. Do you need a theme that is focused on blogging or a theme that showcases your portfolio? In this demonstration, I will choose a more concise theme for the resume.
 
-## Step 2: Browse the Jekyll Theme Gallery
+## Step 2: Browse the Supported Jekyll themes
 
-The Jekyll theme gallery is a great place to start looking for themes. There are plenty of free and paid themes available that cover a variety of use cases. You can browse the gallery at [jekyllthemes.org](https://jekyllthemes.org/).
+The "GitHub Pages" is a great place to start looking for themes. There are plenty of free themes available that cover a variety of use cases. You can browse the page at [pages.github.com](https://pages.github.com/themes/).
 
 ## Step 3: Review the Theme's Documentation
 
-Once you've found a few themes that you like, review the documentation to see if it meets your needs. Documentation should include instructions for installation, configuration, and customization. Look for themes with clear documentation and active support from the developer.
+Once you've found a your favourite theme, review the documentation to see if it meets your needs. Documentation should include instructions for installation, configuration, and customization. Look for themes with clear documentation and active support from the developer.
 
 ## Step 4: Preview the Theme
 
