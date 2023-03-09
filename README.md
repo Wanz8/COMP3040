@@ -67,24 +67,6 @@ The "GitHub Pages" is a great place to start looking for themes. There are plent
 
 Once you've found a your favourite theme, review the documentation to see if it meets your needs. Documentation should include instructions for installation, configuration, and customization. Look for themes with clear documentation and active support from the developer.
 
-## Step 4: Preview the Theme
-
-Preview the theme before selecting it by viewing the live demo or screenshots. This will give you an idea of how the theme looks and functions in action. You can often find a link to the demo on the theme's documentation page.
-
-## Step 5: Consider Customization Options
-
-If you have specific design requirements or branding guidelines, consider how easily the theme can be customized. Some themes may offer more customization options than others.
-
-## Step 6: Test the Theme
-
-Once you've selected a theme, test it on your GitHub page to make sure it works as expected. Test the theme's responsiveness, navigation, and any other features you require.
-
-## Step 7: Keep it Simple
-
-While it can be tempting to choose a theme with all the bells and whistles, remember that simplicity is often better. A clean and minimal theme can be more effective in showcasing your content and reducing distractions.
-
-By following these steps, you'll be able to choose a Jekyll theme that meets your needs and helps you create a professional-looking GitHub page. Good luck!
-
 
 
 
