@@ -71,6 +71,37 @@ Once you've found a your favourite theme, review the documentation to see if it 
 
 
 ---
+# Hosting Your Resume on GitHub Pages with the Cayman Theme
+
+This guide will show you how to host your resume on GitHub Pages using the Cayman theme, which is a Jekyll theme created by Jason Long. 
+
+## Prerequisites
+
+To follow this guide, you'll need the following:
+
+- A GitHub account
+- A text editor
+- Your resume in Markdown format
+- A forked copy of the Cayman theme repository
+
+## Step 1: Fork the Cayman Theme
+
+The first step is to fork the Cayman theme repository to your GitHub account. To do this, go to the Cayman theme repository on GitHub and click the Fork button in the top right corner of the page. 
+
+## Step 2: Create a New Repository
+
+The next step is to create a new repository on GitHub to host your resume. We recommend using a name like yourusername.github.io, where yourusername is your GitHub username.
+
+## Step 3: Clone Your Repositories
+
+1. Clone the repository you created in step 2 to your local machine.
+2. Clone the forked Cayman theme repository to your local machine.
+
+## Step 4: Customize the Theme
+
+1. Open the cloned Cayman theme repository in your text editor.
+2. Copy the _layouts, _sass, assets, and Gemfile folders from the Cayman theme repository to the root directory of your resume repository.
+3. Edit the _config.yml file in the root directory of your resume repository. Change the following lines:
 
 
 ---
