@@ -10,7 +10,6 @@ The purpose of this README is to guide you through the process of hosting and fo
 * Install [markdown editor](https://www.shopify.com/partners/blog/10-of-the-best-markdown-editors)
 
 
-
 ---
 ## Instructions
 
@@ -47,6 +46,7 @@ The purpose of this README is to guide you through the process of hosting and fo
     - To keep it simple it is recommended that the main branch and root directory is the publishing branch
 ![Step 9 gif](image/Main%20Branch.gif)
 10. Click Save
+
 ---
 
 ### Choosing a Jekyll Theme for Your GitHub Page
@@ -68,15 +68,14 @@ The "GitHub Pages" is a great place to start looking for themes. There are plent
 Once you've found your favourite theme, review the documentation to see if it meets your needs. You can find instructions for installation, configuration, and customization. 
 
 
-
-
 ---
-# Hosting Your Resume on GitHub Pages with the Cayman Theme
+
+# Hosting Your Resume on GitHub Pages with the Midnight Theme
 
 This guide will show you how to host your resume on GitHub Pages using the Cayman theme, which is a Jekyll theme created by Jason Long. 
 >By the end of this section, you will have:
 
-> * Host your resume on Github Pages with your favourite theme.(This time I will choose Cayman as an example)
+> * Host your resume on Github Pages with your favourite theme.(This time I will choose Midnight as an example)
 
 ## Prerequisites
 
@@ -84,7 +83,7 @@ To follow this guide, you'll need the following:
 - Visual Studio Code
 - A Resume in Markdown format.
 - A repository build by yourselfs.
-- The "Cayman theme" repository which you selected.
+- The "Midnight theme" repository which you selected.
 
 ## Step 1: Copy the URL from your Reponsitory
 
@@ -103,9 +102,9 @@ Open Visual Studio Code and select "Clone Git Repository..." on the initial scre
 ## Step 4: Add file to your repository
 
 1. Click on "New Document" and name your file "_config.yml" ![NameIt](image/createConfig.gif)
-2. Copy the code in "_config.yml" from the Cayman theme repository 
+2. Copy the code in "_config.yml" from the Midnight theme repository 
 ```
- remote_theme: jasonlong/cayman-theme
+ remote_theme: jasonlong/Midnight-theme
 ```
 Then paste it into the "--config.yml" file you just created.
 
@@ -128,6 +127,7 @@ By the end of this section, you have:
 3. You should be able to see your resume, which is now on GitHub Pages!![webpage](image/website.gif)
 
 ---
+
 ### Principle of Technical Writing
 The principle of technical writing is to convey complex information in a clear and concise manner that can be easily understood by the intended audience. To achieve this, technical writers follow several principles, including:
 
@@ -150,6 +150,7 @@ By following these principles, technical writers can create effective documentat
 * ["Modern Technical Writing" by Andrew Etter](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 
 ---
+
 ## Authors and Acknowledgements 
 #### **Author**
 * [ZHIHAO WANG](https://github.com/Wangz8)  
@@ -158,7 +159,9 @@ By following these principles, technical writers can create effective documentat
 
 #### **GitHub Page Theme**
 *  [Parker Moore](https://github.com/pages-themes/midnight)
+
 ---
+
 ## FAQs
 **Q: What is a Markdown file?**
 * A: A Markdown file is a plain text file that uses a simple syntax to format text, add headings, create lists, and include links and images. It is used to create documentation and web content.
