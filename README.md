@@ -65,7 +65,7 @@ The "GitHub Pages" is a great place to start looking for themes. There are plent
 
 ## Step 3: Review the Theme's Documentation
 
-Once you've found a your favourite theme, review the documentation to see if it meets your needs. Documentation should include instructions for installation, configuration, and customization. Look for themes with clear documentation and active support from the developer.
+Once you've found your favourite theme, review the documentation to see if it meets your needs. You can find instructions for installation, configuration, and customization. 
 
 
 
@@ -74,35 +74,42 @@ Once you've found a your favourite theme, review the documentation to see if it 
 # Hosting Your Resume on GitHub Pages with the Cayman Theme
 
 This guide will show you how to host your resume on GitHub Pages using the Cayman theme, which is a Jekyll theme created by Jason Long. 
+>By the end of this section, you will have:
+
+> * Host your resume on Github Pages with your favourite theme.(This time I will choose Cayman as an example)
 
 ## Prerequisites
 
 To follow this guide, you'll need the following:
+- Visual Studio Code
+- A Resume in Markdown format.
+- A repository build by yourselfs.
+- The "Cayman theme" repository which you selected.
 
-- A GitHub account
-- A text editor
-- Your resume in Markdown format
-- A forked copy of the Cayman theme repository
+## Step 1: Copy the URL from your Reponsitory
 
-## Step 1: Fork the Cayman Theme
+You need to open your Repository and find the "Code" button. Then copy your URL.
+![URL](image/FindURL.gif)
 
-The first step is to fork the Cayman theme repository to your GitHub account. To do this, go to the Cayman theme repository on GitHub and click the Fork button in the top right corner of the page. 
+## Step 2: Open the Visual Studio Code
 
-## Step 2: Create a New Repository
-
-The next step is to create a new repository on GitHub to host your resume. We recommend using a name like yourusername.github.io, where yourusername is your GitHub username.
+Open Visual Studio Code and select "Clone Git Repository..." on the initial screen.![CloneGit](image/CloneGit.jpg)
 
 ## Step 3: Clone Your Repositories
+1. Paste in the URL you just copied from your repository and Press " Enter".
+![Copy the URL](image/PasteURL.jpg)
+2. Select a path to store your files. Then you will see your repository with all your files presented on the left side.![Presented](image/Presented.jpg)
 
-1. Clone the repository you created in step 2 to your local machine.
-2. Clone the forked Cayman theme repository to your local machine.
+## Step 4: Create config file
 
-## Step 4: Customize the Theme
+1. Click on "New Document" and name your file "_config.yml" ![NameIt](image/createConfig.gif)
+2. Copy the code in "_config.yml" from the Cayman theme repository 
+```
+ remote_theme: jasonlong/cayman-theme
+```
+Then Paste into the root directory of your resume repository.
 
-1. Open the cloned Cayman theme repository in your text editor.
-2. Copy the _layouts, _sass, assets, and Gemfile folders from the Cayman theme repository to the root directory of your resume repository.
-3. Edit the _config.yml file in the root directory of your resume repository. Change the following lines:
-
+## Step 5: 
 
 ---
 
