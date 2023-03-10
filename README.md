@@ -124,7 +124,7 @@ By the end of this section, you have:
     * If the repository name is your GitHub username, visiting the URL will let you view your GitHub Page.
 2. To view your resume, type ```https://<Your GitHub Username>.github.io/<repository-name>```. 
 
-3. You should be able to see your resume, which is now on GitHub Pages!![webpage](image/website.gif)
+3. You should be able to see your resume, which is now on GitHub Pages!![webpage](image/ResumeWebsite.gif)
 
 ---
 
