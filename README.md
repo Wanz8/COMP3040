@@ -111,10 +111,21 @@ Then paste it into the "--config.yml" file you just created.
 
 3. Drag your Resume into your folder.![Drag](image/AddResume.gif)
 
-## Step 5: 
+## Final Step: 
 Save, commit and push into your github repository.
 
 ---
+### Viewing your GitHub Page
+
+By the end of this section, you have:
+* Successfully viewed your resume on your GitHub Page through at least one of two methods
+
+#### Viewing Your GitHub Page By URL
+1. Your main GitHub page is ```https://<Your GitHub Username>.github.io/```. 
+    * If the repository name is your GitHub username, visiting the URL will let you view your GitHub Page.
+2. To view your resume, type ```https://<Your GitHub Username>.github.io/<repository-name>```. 
+
+3. You should be able to see your resume, which is now on GitHub Pages!![webpage](image/website.gif)
 
 
 ---
