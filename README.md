@@ -100,7 +100,7 @@ Open Visual Studio Code and select "Clone Git Repository..." on the initial scre
 ![Copy the URL](image/PasteURL.jpg)
 2. Select a path to store your files. Then you will see your repository with all your files presented on the left side.![Presented](image/Presented.jpg)
 
-## Step 4: Create config file
+## Step 4: Add file to your repository
 
 1. Click on "New Document" and name your file "_config.yml" ![NameIt](image/createConfig.gif)
 2. Copy the code in "_config.yml" from the Cayman theme repository 
@@ -108,8 +108,10 @@ Open Visual Studio Code and select "Clone Git Repository..." on the initial scre
  remote_theme: jasonlong/cayman-theme
 ```
 Then Paste into the root directory of your resume repository.
+3. Drag your Resume into your folder.![Drag](image/AddResume.gif)
 
 ## Step 5: 
+Save, commit and push into your github repository.
 
 ---
 
