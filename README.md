@@ -127,6 +127,21 @@ By the end of this section, you have:
 
 3. You should be able to see your resume, which is now on GitHub Pages!![webpage](image/website.gif)
 
+---
+### Principle of Technical Writing
+The principle of technical writing is to convey complex information in a clear and concise manner that can be easily understood by the intended audience. To achieve this, technical writers follow several principles, including:
+
+1. Know your audience: Technical writers need to understand who their audience is and what their knowledge level is in the subject matter. This information helps them create content that is tailored to their readers' needs.
+
+2. Use clear and concise language: Technical writing requires the use of simple and straightforward language that is easy to understand. Technical writers should avoid jargon and complex terminology that may confuse readers.
+
+3. Organize information logically: Technical writing should be organized in a logical and coherent manner that allows readers to easily follow the flow of information.
+
+4. Use visuals to enhance understanding: Technical writers should use visuals, such as diagrams, charts, and graphs, to help readers understand complex concepts.
+
+5. Edit and proofread carefully: Technical writing must be free from errors and mistakes. Technical writers should carefully edit and proofread their work to ensure that it is accurate, clear, and concise.
+
+By following these principles, technical writers can create effective documentation that helps their readers understand complex information.
 
 ---
 ## More Resources
@@ -139,8 +154,22 @@ By the end of this section, you have:
 #### **Author**
 * [ZHIHAO WANG](https://github.com/Wangz8)  
 #### **Group Members/Peer Editors**
+* Jakob McKenna
 
 #### **GitHub Page Theme**
-*  
+*  [Parker Moore](https://github.com/pages-themes/midnight)
 ---
 ## FAQs
+**Q: What is a Markdown file?**
+* A: A Markdown file is a plain text file that uses a simple syntax to format text, add headings, create lists, and include links and images. It is used to create documentation and web content.
+
+**Q: Why use Markdown files instead of Word documents?**
+* A: Markdown files have several advantages over Word documents:
+
+1. Portability: Markdown files are plain text files that can be opened and edited with any text editor, regardless of the operating system. They are lightweight and easy to share.
+
+2. Version control: Markdown files can be easily managed with version control systems like Git, allowing you to track changes and collaborate with others.
+
+3. Easy to read: Markdown files use a simple syntax that makes them easy to read and write. You don't have to worry about complex formatting options or hidden code.
+
+4. Better for web content: Markdown files are better suited for creating content for the web. They can be easily converted to HTML and other web formats, and can be used to create blogs, wikis, and other online content.
