@@ -108,6 +108,7 @@ Open Visual Studio Code and select "Clone Git Repository..." on the initial scre
  remote_theme: jasonlong/cayman-theme
 ```
 Then Paste into the root directory of your resume repository.
+
 3. Drag your Resume into your folder.![Drag](image/AddResume.gif)
 
 ## Step 5: 
